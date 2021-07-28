@@ -1,0 +1,27 @@
+body{
+  background: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+.main-heading h1{
+  margin-bottom: 20px;
+}
+button{
+  display: inline-block;
+  background: #f8b627;
+  color:#f4f4f4;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: center;
+  border-radius: 10px;
+  transition: 400px;
+  text-decoration: none;
+  padding: 10px;
+  z-index: 1000000;
+}
+img{
+  width: 200px;
+}
